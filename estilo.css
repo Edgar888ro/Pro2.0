@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(199, 202, 199);
+}
+
+
+h1{
+    font-size: 50pt;
+    font-weight: bold;
+    margin: 0.5;
+    padding: 10px;
+    }
+
+p{
+    text-align: justify;
+    margin: 15px;
+    font-size: 20pt;
+    }
+.pre{
+    color: black;
+    font-weight: bold;
+}
+
+h3{
+
+    color: green;
+    margin: 0.5;
+    font-size: 30pt;
+    font-weight: bold;
+    padding-left: 3rem;
+
+    }
+
+
+button{
+
+    width: 10pc;
+
+    }
+
+    label{
+        font-size: 15pt;
+        padding: 10px;
+        color:#222;
+        margin: 0.5;
+    }
+    input{
+        margin: 10px;
+    }
